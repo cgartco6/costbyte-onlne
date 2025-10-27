@@ -1,0 +1,133 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "AI Prompt Engineering Mastery",
+      "price": 97,
+      "category": "Technology",
+      "level": "Beginner to Advanced",
+      "duration": "6 hours",
+      "trending": true,
+      "description": "Master the art of communicating with AI systems for maximum productivity"
+    },
+    {
+      "id": 2,
+      "title": "Short-Form Video Domination",
+      "price": 87,
+      "category": "Marketing",
+      "level": "All Levels",
+      "duration": "5 hours",
+      "trending": true,
+      "description": "Create viral content for TikTok, Reels, and Shorts that drives business growth"
+    },
+    {
+      "id": 3,
+      "title": "Personal Branding for the Digital Age",
+      "price": 79,
+      "category": "Business",
+      "level": "Beginner",
+      "duration": "4 hours",
+      "trending": true,
+      "description": "Build authority and monetize your expertise across social platforms"
+    },
+    {
+      "id": 4,
+      "title": "No-Code Business Automation",
+      "price": 89,
+      "category": "Technology",
+      "level": "Beginner to Intermediate",
+      "duration": "5 hours",
+      "trending": true,
+      "description": "Automate workflows and build apps without any programming knowledge"
+    },
+    {
+      "id": 5,
+      "title": "Sustainable Living & Green Entrepreneurship",
+      "price": 75,
+      "category": "Lifestyle",
+      "level": "All Levels",
+      "duration": "4 hours",
+      "trending": true,
+      "description": "Build eco-friendly businesses and reduce your carbon footprint"
+    },
+    {
+      "id": 6,
+      "title": "Cryptocurrency & DeFi Fundamentals",
+      "price": 99,
+      "category": "Finance",
+      "level": "Beginner",
+      "duration": "6 hours",
+      "trending": true,
+      "description": "Understand blockchain, crypto investing, and decentralized finance"
+    },
+    {
+      "id": 7,
+      "title": "Mental Health & Digital Wellness",
+      "price": 67,
+      "category": "Health",
+      "level": "All Levels",
+      "duration": "3 hours",
+      "trending": true,
+      "description": "Manage stress, anxiety, and maintain wellness in the digital world"
+    },
+    {
+      "id": 8,
+      "title": "Remote Work Mastery",
+      "price": 82,
+      "category": "Career",
+      "level": "All Levels",
+      "duration": "4 hours",
+      "trending": true,
+      "description": "Excel in remote work environments and build a location-independent career"
+    },
+    {
+      "id": 9,
+      "title": "Data Analytics for Beginners",
+      "price": 94,
+      "category": "Technology",
+      "level": "Beginner",
+      "duration": "7 hours",
+      "trending": true,
+      "description": "Learn to analyze data and make data-driven decisions without coding"
+    },
+    {
+      "id": 10,
+      "title": "Ethical Hacking Fundamentals",
+      "price": 109,
+      "category": "Technology",
+      "level": "Intermediate",
+      "duration": "8 hours",
+      "trending": true,
+      "description": "Learn cybersecurity basics and ethical hacking techniques"
+    },
+    {
+      "id": 11,
+      "title": "NFT Creation & Marketing",
+      "price": 88,
+      "category": "Creative",
+      "level": "Beginner to Intermediate",
+      "duration": "5 hours",
+      "trending": true,
+      "description": "Create, mint, and market your own NFT collections successfully"
+    },
+    {
+      "id": 12,
+      "title": "Metaverse & Web3 Essentials",
+      "price": 95,
+      "category": "Technology",
+      "level": "Beginner",
+      "duration": "4 hours",
+      "trending": true,
+      "description": "Understand and navigate the emerging metaverse and Web3 landscape"
+    }
+  ],
+  "free_course": {
+    "id": 0,
+    "title": "Digital Productivity Fundamentals",
+    "price": 0,
+    "category": "Productivity",
+    "level": "All Levels",
+    "duration": "2 hours",
+    "description": "Master time management and tool optimization for maximum efficiency"
+  }
+}
